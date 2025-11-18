@@ -5,12 +5,12 @@ export default function Home() {
       <nav className="fixed top-0 left-0 right-0 bg-white/90 backdrop-blur-sm z-50 border-b border-gray-100">
         <div className="max-w-4xl mx-auto px-6 py-4 flex justify-between items-center">
           <div className="font-semibold text-lg tracking-tight">
-            <span className="text-[#C8102E]">SELF</span>
+            <span className="text-[#8B7355]">SELF</span>
             <span className="text-gray-400 font-normal ml-2">by Sivana</span>
           </div>
           <a
             href="#contact"
-            className="text-sm text-gray-600 hover:text-[#C8102E] transition-colors"
+            className="text-sm text-gray-600 hover:text-[#8B7355] transition-colors"
           >
             Get in touch
           </a>
@@ -20,7 +20,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="pt-32 pb-24 px-6">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-5xl md:text-6xl font-semibold text-[#C8102E] mb-8 leading-tight">
+          <h1 className="text-5xl md:text-6xl font-semibold text-[#8B7355] mb-8 leading-tight">
             Redefining human readiness for aviation
           </h1>
 
@@ -38,7 +38,7 @@ export default function Home() {
 
           <a
             href="#contact"
-            className="inline-block bg-[#C8102E] text-white px-8 py-4 rounded-lg font-medium hover:bg-[#A00D24] transition-colors"
+            className="inline-block bg-[#8B7355] text-white px-8 py-4 rounded-lg font-medium hover:bg-[#6B5A45] transition-colors"
           >
             Get in touch
           </a>
@@ -46,7 +46,7 @@ export default function Home() {
       </section>
 
       {/* How Safety Works Today */}
-      <section className="py-24 px-6 bg-gray-50">
+      <section className="py-24 px-6 bg-[#f5f1eb]">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-900 mb-8">
             How safety works today
@@ -101,19 +101,19 @@ export default function Home() {
             <p className="text-lg text-gray-900 font-medium mb-4">We believe readiness must be:</p>
             <ul className="space-y-3 text-lg text-gray-600">
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span><strong>Measured continuously</strong>, not assumed.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span><strong>Grounded in data</strong>, not just intuition.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span><strong>Respectful and human</strong>, never punitive or invasive.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span><strong>Simple to use</strong>, but scientifically deep.</span>
               </li>
             </ul>
@@ -126,7 +126,7 @@ export default function Home() {
       </section>
 
       {/* What We're Building */}
-      <section className="py-24 px-6 bg-gray-50">
+      <section className="py-24 px-6 bg-[#f5f1eb]">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-900 mb-8">
             SELF: a five-minute cognitive readiness ritual
@@ -146,19 +146,19 @@ export default function Home() {
             </h3>
             <ul className="space-y-3 text-lg text-gray-600">
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>A short set of natural questions about rest, alertness, and mood.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>A handful of light, almost game-like tasks that test focus, reflexes, memory, and decision-making.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>One or two spoken prompts that capture their voice and expression.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>A brief reflection: anything affecting your concentration today?</span>
               </li>
             </ul>
@@ -171,19 +171,19 @@ export default function Home() {
             </h3>
             <ul className="space-y-3 text-lg text-gray-600">
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>Computer vision reads micro-expressions, blink patterns, gaze stability.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>Audio analysis tracks subtle changes in tone, tremor, and breathing.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>Cognitive tasks are scored for consistency, not just speed.</span>
               </li>
               <li className="flex items-start">
-                <span className="text-[#C8102E] mr-3 mt-1">—</span>
+                <span className="text-[#8B7355] mr-3 mt-1">—</span>
                 <span>Results are compared against that person&apos;s historical baseline, not a generic average.</span>
               </li>
             </ul>
@@ -204,7 +204,7 @@ export default function Home() {
                 <span className="text-gray-900"><strong>Monitor</strong> <span className="text-gray-600">(mild fatigue or stress, needs mitigation)</span></span>
               </li>
               <li className="flex items-start">
-                <span className="w-3 h-3 bg-[#C8102E] rounded-full mr-3 mt-2 flex-shrink-0"></span>
+                <span className="w-3 h-3 bg-[#8B7355] rounded-full mr-3 mt-2 flex-shrink-0"></span>
                 <span className="text-gray-900"><strong>Hold for review</strong> <span className="text-gray-600">(requires human supervisory decision)</span></span>
               </li>
             </ul>
@@ -234,19 +234,19 @@ export default function Home() {
 
           <ul className="space-y-4 text-lg text-gray-600 mb-8">
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span><strong>High stakes:</strong> every improvement in human performance has outsized impact.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span><strong>Structured operations:</strong> standard procedures and duty cycles make it possible to integrate a repeatable readiness ritual.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span><strong>Data-rich environment:</strong> flight schedules, duty time, and operational context give powerful signals for modelling fatigue and risk.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span><strong>Strong safety culture:</strong> airlines and regulators already think deeply about human factors.</span>
             </li>
           </ul>
@@ -259,7 +259,7 @@ export default function Home() {
       </section>
 
       {/* Beyond Aviation */}
-      <section className="py-24 px-6 bg-gray-50">
+      <section className="py-24 px-6 bg-[#f5f1eb]">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-900 mb-8">
             From the flight deck to space and beyond
@@ -276,19 +276,19 @@ export default function Home() {
 
           <ul className="space-y-3 text-lg text-gray-600 mb-8">
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Long-duration missions in space.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Defence and intelligence operations.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>High-risk industrial environments.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Any domain where human judgement and attention are critical.</span>
             </li>
           </ul>
@@ -317,24 +317,24 @@ export default function Home() {
 
           <ul className="space-y-3 text-lg text-gray-600 mb-10">
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Designed the full end-to-end experience as a calm, repeatable pre-flight ritual.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Built a working prototype of the kiosk experience and core evaluation engine.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Tested the system with early users to validate flow, usability, and signal stability.</span>
             </li>
             <li className="flex items-start">
-              <span className="text-[#C8102E] mr-3 mt-1">—</span>
+              <span className="text-[#8B7355] mr-3 mt-1">—</span>
               <span>Developed an expanded library of cognitive, behavioural, and emotional tasks that can adapt over time, without overwhelming the crew.</span>
             </li>
           </ul>
 
-          <div className="bg-gray-50 p-8 rounded-lg">
+          <div className="bg-[#f5f1eb] p-8 rounded-lg">
             <p className="text-lg text-gray-900 font-medium mb-4">
               Early results are consistent:
             </p>
@@ -348,7 +348,7 @@ export default function Home() {
       </section>
 
       {/* Who We're Looking For */}
-      <section className="py-24 px-6 bg-gray-50">
+      <section className="py-24 px-6 bg-[#f5f1eb]">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-900 mb-8">
             Who we&apos;re looking to work with
@@ -425,7 +425,7 @@ export default function Home() {
       </section>
 
       {/* Get in Touch */}
-      <section id="contact" className="py-24 px-6 bg-[#C8102E] text-white">
+      <section id="contact" className="py-24 px-6 bg-[#8B7355] text-white">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-semibold mb-8">
             Get in touch
@@ -439,7 +439,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-4">
             <a
               href="mailto:hello@sivana.io"
-              className="inline-block bg-white text-[#C8102E] px-8 py-4 rounded-lg font-medium hover:bg-gray-100 transition-colors text-center"
+              className="inline-block bg-white text-[#8B7355] px-8 py-4 rounded-lg font-medium hover:bg-gray-100 transition-colors text-center"
             >
               hello@sivana.io
             </a>
@@ -456,7 +456,7 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="py-8 px-6 bg-gray-900 text-gray-400">
+      <footer className="py-8 px-6 bg-[#2c2416] text-[#C9B8A8]">
         <div className="max-w-4xl mx-auto text-center text-sm">
           <p>&copy; {new Date().getFullYear()} Sivana Innovations. All rights reserved.</p>
         </div>
